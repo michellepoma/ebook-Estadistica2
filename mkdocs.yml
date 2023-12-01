@@ -8,6 +8,7 @@ theme:
   name: material
   features:
     - navigation.instant
+    
     - navigation.tracking
     - content.code.copy
     - navigation.tabs
