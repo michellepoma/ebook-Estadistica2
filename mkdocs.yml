@@ -3,6 +3,7 @@ site_name: Estadistica 2
 nav:
   - Home: index.md
   - "Capitulo 0": capitulo0.ipynb
+  - "Capitulo 1": capitulo1.ipynb
 
 theme:
   name: material
