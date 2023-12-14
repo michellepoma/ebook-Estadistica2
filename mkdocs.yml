@@ -4,7 +4,9 @@ nav:
   - Home: index.md
   - "Capitulo 0": capitulo0.ipynb
   - "Capitulo 1": capitulo1.ipynb
+  - "Capitulo 2": capitulo2.ipynb
   - "Capitulo 7": capitulo7.ipynb
+  
 
 theme:
   name: material
