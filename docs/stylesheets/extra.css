@@ -1,0 +1,11 @@
+.md-tabs__link {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    display: flex;
+    font-size: .62rem;
+    margin-top: 0.8rem;
+    opacity: .7;
+    outline-color: var(--md-accent-fg-color);
+    outline-offset: 0.2rem;
+    transition: transform .4s cubic-bezier(.1,.7,.1,1),opacity .25s;
+}

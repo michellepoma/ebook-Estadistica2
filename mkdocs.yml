@@ -2,7 +2,6 @@ site_name: Estadistica 2
 
 nav:
   - Home: index.md
-  - "Capitulo 0": capitulo0.ipynb
   - "Capitulo 1": capitulo1.ipynb
   - "Capitulo 2": capitulo2.ipynb
   - "Capitulo 3": capitulo3.ipynb
@@ -17,6 +16,8 @@ nav:
   - "Capitulo 13": capitulo13.ipynb
   - "Capitulo 14": capitulo14.ipynb
   
+extra_css:
+  - stylesheets/extra.css
 
 theme:
   name: material
@@ -64,3 +65,4 @@ plugins:
       execute: false
       include_requirejs: true
       ignore_h1_titles: true
+
